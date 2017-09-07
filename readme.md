@@ -15,3 +15,5 @@ I love a few things: let's see :)
 * Travelling
 * Music
 * Swimming
+
+I also like playing tic-tac-toe
