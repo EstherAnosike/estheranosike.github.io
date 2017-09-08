@@ -21,3 +21,7 @@ I also like playing tic-tac-toe
 | x |   | x |
 | o | x |   |
 | x | o | o |
+
+[know more about me](https://twitter.com/OluwaEstiano)
+
+This is me. My best self. I always remember to be happy
