@@ -17,3 +17,7 @@ I love a few things: let's see :)
 * Swimming
 
 I also like playing tic-tac-toe
+
+| x |   | x |
+| o | x |   |
+| x | o | o |
