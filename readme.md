@@ -26,7 +26,7 @@ I also like playing tic-tac-toe
 
 This is me. My best self. I always remember to be happy!! :wink:
 
-![Esther A.](EstherAnosike/media/myself.jpg)
+![Esther A.](/media/myself.jpg)
 
 You can [click here](https://twitter.com/OluwaEstiano) to follow me on twitter
 
